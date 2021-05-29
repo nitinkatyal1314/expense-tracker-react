@@ -1,6 +1,13 @@
 # expense-tracker-react
-Expense tracker in react
+A simple expense tracker app designed in react with following features:
 
+1. Add new expenses.
+2. Filter expenses based on year.
+3. Visualize expenses on monthly bases.
+
+Here is the sample from the app:
+
+![Expense Tracker](/public/expense-tracker-sample.png)
 
 # Dependencies
 Make sure you have create-react-app module installed on your system. Visit https://github.com/facebook/create-react-app
